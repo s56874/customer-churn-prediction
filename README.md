@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Prediction
 
 ## About the Project
@@ -68,3 +69,6 @@ Make sure the dataset is available in the expected location before running the n
 
 ## Author
 Created as a Machine Learning project to practice data analysis and model development.
+=======
+# customer-churn-prediction
+>>>>>>> 058c744bca52785861eeefa7a4fce3fc0c66eb02
